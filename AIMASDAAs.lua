@@ -2,7 +2,7 @@ local ui_options = {
 	main_color = Color3.fromRGB(10, 10, 10),
 	min_size = Vector2.new(300, 400),
 	toggle_key = Enum.KeyCode.RightShift,
-	can_resize = false,
+	can_resize = true,
 }
 
 do
